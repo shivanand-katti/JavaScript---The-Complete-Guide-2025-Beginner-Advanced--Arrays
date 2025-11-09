@@ -1,0 +1,8 @@
+Javascript Arrays:
+
+An array is like Objects:
+
+Explanation of Multi-Dimentional Arrays:
+
+
+
