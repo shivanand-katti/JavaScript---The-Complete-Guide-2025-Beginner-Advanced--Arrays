@@ -1,0 +1,29 @@
+Javascript Arrays:
+
+An array is like Objects:
+
+Explanation of Multi-Dimentional Arrays:
+
+what are objects?
+core data structure in Javascript
+typically reflect real-word entities
+eg button, movies
+
+objects in Javascript:
+primitive values                                               Reference values (= objects)
+numbers                                                         Everything else
+strings                                                         {...}
+boolean                                                         Arrays
+null                                                            Dom nodes
+undefined
+symbols
+
+
+
+
+
+
+
+
+
+
